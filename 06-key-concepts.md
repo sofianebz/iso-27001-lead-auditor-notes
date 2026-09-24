@@ -1,4 +1,4 @@
-# 06 — Key Concepts
+# 06 - Key Concepts
 
 ## PDCA
 
