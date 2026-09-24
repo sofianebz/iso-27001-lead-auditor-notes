@@ -1,4 +1,4 @@
-# ISO/IEC 27001:2022 Lead Auditor — Study Notes
+# ISO/IEC 27001:2022 Lead Auditor - Study Notes
 
 Personal study notes on ISO/IEC 27001:2022 and Information Security Management System (ISMS) auditing.
 
