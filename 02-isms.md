@@ -20,21 +20,21 @@ The standard contains:
 
 ## 3. Clauses 4–10
 
-### Clause 4 — Context of the organization
+### Clause 4 - Context of the organization
 
 Covers:
 - organizational context
 - interested parties
 - ISMS scope
 
-### Clause 5 — Leadership
+### Clause 5 - Leadership
 
 Covers:
 - leadership commitment
 - information security policy
 - roles and responsibilities
 
-### Clause 6 — Planning
+### Clause 6 - Planning
 
 Covers:
 - risks and opportunities
@@ -42,7 +42,7 @@ Covers:
 - risk assessment
 - risk treatment
 
-### Clause 7 — Support
+### Clause 7 - Support
 
 Covers:
 - resources
@@ -51,21 +51,21 @@ Covers:
 - communication
 - documented information
 
-### Clause 8 — Operation
+### Clause 8 - Operation
 
 Covers:
 - operational planning and control
 - information security risk assessment
 - implementation of risk treatment
 
-### Clause 9 — Performance evaluation
+### Clause 9 - Performance evaluation
 
 Covers:
 - monitoring and measurement
 - internal audit
 - management review
 
-### Clause 10 — Improvement
+### Clause 10 - Improvement
 
 Covers:
 - nonconformity
