@@ -14,11 +14,11 @@ The approach is risk-based and supports the protection of:
 
 The standard contains:
 
-- Clauses 1–3: scope, references and terms
-- Clauses 4–10: ISMS requirements
+- Clauses 1-3: scope, references and terms
+- Clauses 4-10: ISMS requirements
 - Annex A: reference set of information security controls
 
-## 3. Clauses 4–10
+## 3. Clauses 4-10
 
 ### Clause 4 - Context of the organization
 
