@@ -1,4 +1,4 @@
-# 05 — Audit Execution
+# 05  Audit Execution
 
 ## 1. Opening meeting
 
