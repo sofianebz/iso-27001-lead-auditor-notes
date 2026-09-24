@@ -1,4 +1,4 @@
-# 02 — Understanding the ISMS
+# 02 - Understanding the ISMS
 
 ## 1. ISO/IEC 27001:2022
 
