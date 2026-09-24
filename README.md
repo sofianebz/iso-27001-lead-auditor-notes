@@ -4,12 +4,12 @@ Personal study notes on ISO/IEC 27001:2022 and Information Security Management S
 
 ## Contents
 
-- [01 — Fundamentals](01-fundamentals.md)
-- [02 — Understanding the ISMS](02-isms.md)
-- [03 — ISMS Implementation](03-isms-implementation.md)
-- [04 — Audit Planning](04-audit-planning.md)
-- [05 — Audit Execution](05-audit-execution.md)
-- [06 — Key Concepts](06-key-concepts.md)
+- [01 - Fundamentals](01-fundamentals.md)
+- [02 - Understanding the ISMS](02-isms.md)
+- [03 - ISMS Implementation](03-isms-implementation.md)
+- [04 - Audit Planning](04-audit-planning.md)
+- [05 - Audit Execution](05-audit-execution.md)
+- [06 - Key Concepts](06-key-concepts.md)
 - [References](references.md)
 
 ## Topics covered
