@@ -1,4 +1,4 @@
-# 01 — Fundamentals
+# 01 - Fundamentals
 
 ## 1. ISO and standardization
 
