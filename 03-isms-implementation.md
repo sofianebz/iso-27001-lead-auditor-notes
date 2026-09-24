@@ -1,4 +1,4 @@
-# 03 — ISMS Implementation
+# 03 - ISMS Implementation
 
 ## 1. Defining the ISMS scope
 
