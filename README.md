@@ -29,4 +29,3 @@ Personal study notes on ISO/IEC 27001:2022 and Information Security Management S
 - ISO/IEC 27006-1
 - IAF mandatory documents
 
-> Personal study notes for educational and revision purposes. This repository is not a reproduction of ISO standards or proprietary training material.
